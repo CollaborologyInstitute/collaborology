@@ -6,10 +6,13 @@
 
 ## Glossary
 
-| Term               | Definition                                            | Definer / Source                | as of      | Notes |
-| ------------------ | ----------------------------------------------------- | ------------------------------- | ---------- | ----- |
-| collaborology      |                                                       | SH                              | 2005-07-xx |       |
-| macrocollaborology |                                                       |                                 | 2024-02-17 |       |
-| microcollaborology |                                                       |                                 | 2024-02-17 |       |
-| psychohistory      | Isaac Asimov's (Hari Seldon's) mathematics of history | Foundation Series, Isaac Asimov |            |       |
-| sociomatics        | the mathematics of collaborology                      | SH                              | 2009-12-xx |       |
+| Term                                                                                       | Definition                                                                                 | Definer / Source                | as of      | Notes |
+| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------- | ---------- | ----- |
+| atomic collaboration                                                                       | the smallest collaboration - simple request and response                                   | SH                              | 2009-xx-xx |       |
+| collaborology                                                                              |                                                                                            | SH                              | 2005-07-xx |       |
+| DKR                                                                                        | [dynamic knowledge repository](https://en.wikipedia.org/wiki/Dynamic_knowledge_repository) | Doug Engelbart                  | 1968 ish   |       |
+| [dynamic knolwedge repository](https://en.wikipedia.org/wiki/Dynamic_knowledge_repository) |                                                                                            | Doug Engelbart                  | 1968 ish   |       |
+| macrocollaborology                                                                         |                                                                                            |                                 | 2024-02-17 |       |
+| microcollaborology                                                                         |                                                                                            |                                 | 2024-02-17 |       |
+| psychohistory                                                                              | Isaac Asimov's (Hari Seldon's) mathematics of history                                      | Foundation Series, Isaac Asimov |            |       |
+| sociomatics                                                                                | the mathematics of collaborology                                                           | SH                              | 2009-12-xx |       |
